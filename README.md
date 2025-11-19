@@ -32,7 +32,7 @@ With <strong>4+ years of experience</strong>, I specialize in building scalable 
 
 <h3>🤝 Connect with Me</h3>
 
-<a href="www.linkedin.com/in/adityasahrawat" target="_blank" rel="noreferrer">LinkedIn</a>  
+<a href="https://www.linkedin.com/in/adityasahrawat" target="_blank" rel="noreferrer">LinkedIn</a>  
 </br>
 - 💬 If you have any questions or want to collaborate, feel free to reach out!
 
