@@ -27,7 +27,7 @@ With <strong>4+ years of experience</strong>, I specialize in building scalable 
 <strong>Frontend:</strong> React, Next.js, HTML, CSS, Tailwind, Redux  
 <strong>Backend:</strong> Node.js, Express.js, Nestjs , FastAPI, Flask, Django, PHP/Laravel/CodeIgniter  
 <strong>Databases:</strong> MySQL, PostgreSQL, MongoDB  
-<strong>Mobile:</strong> Android (Java/Kotlin), React Native, Lynx 
+<strong>Mobile:</strong> Android (Java/Kotlin), React Native, Lynx, Flutter </br>
 <strong>DevOps:</strong> Docker, Nginx, GitHub Actions, Linux, Cloud Deployments  
 
 <h3>🤝 Connect with Me</h3>
