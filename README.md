@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://adityasahrawat.vercel.app/" target="_blank" rel="
 </h1>
 
 <h2 align="center">
-I'm a Full-Stack Developer 💻
+I'm Software Engineer 💻
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
