@@ -1,14 +1,41 @@
 <h1 align="center">
-Hi there, I'm <a href="https://adityasahrawat.vercel.app/" target="_blank" rel="noreferrer">Aditya</a> 👋
+Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Aditya Sahrawat</a> 👋
 </h1>
 
 <h2 align="center">
-I'm Software Engineer 💻
-</h2> 
+Software Engineer • Full-Stack Developer • DevOps • Android Developer
+</h2>
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+<p align="center">
+With <strong>4+ years of experience</strong>, I specialize in building scalable applications across <strong>JavaScript, Python, PHP</strong>, and modern frontend & backend ecosystems.
+</p>
 
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/adityasahrawat" target="_blank" rel="noreferrer">Linkedin</a> 
+---
+
+<h3>🚀 About Me</h3>
+
+- 💻 Experienced in **Frontend, Backend, Mobile, DevOps**
+- 🌐 Passionate about building **high-performance applications**
+- 📱 Skilled in **Android (Java/Kotlin) & React Native**
+- ⚡ Love solving complex problems & optimizing systems
+- ☁️ Experienced with **AWS, Docker, CI/CD, Linux servers**
+
+---
+
+<h3>🛠️ Tech Stack</h3>
+
+<strong>Frontend:</strong> React, Next.js, HTML, CSS, Tailwind, Redux  
+<strong>Backend:</strong> Node.js, Express.js, FastAPI, Flask, Django, PHP/Laravel  
+<strong>Databases:</strong> MySQL, PostgreSQL, MongoDB  
+<strong>Mobile:</strong> Android (Java/Kotlin), React Native  
+<strong>DevOps:</strong> Docker, Nginx, GitHub Actions, Linux, Cloud Deployments  
+
+<h3>🤝 Connect with Me</h3>
+
+<a href="www.linkedin.com/in/adityasahrawat" target="_blank" rel="noreferrer">LinkedIn</a>  
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions or want to collaborate, feel free to reach out!
+
+---
+
+<h3 align="center">⭐️ Thanks for visiting my profile!</h3>
