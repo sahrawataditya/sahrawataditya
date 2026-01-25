@@ -29,6 +29,7 @@ With <strong>4+ years of experience</strong>, I specialize in building scalable 
 <strong>Databases:</strong> MySQL, PostgreSQL, MongoDB  
 <strong>Mobile:</strong> Android (Java/Kotlin), React Native, Lynx, Flutter </br>
 <strong>DevOps:</strong> Docker, Nginx, GitHub Actions, Linux, Cloud Deployments  
+<strong>Clouds:</strong> AWS, Azure, Digital Ocean, Vultr
 
 <h3>🤝 Connect with Me</h3>
 
