@@ -7,7 +7,7 @@ Software Engineer • Full-Stack Developer • DevOps • Android Developer
 </h2>
 
 <p align="center">
-With <strong>4+ years of experience</strong>, I specialize in building scalable applications across <strong>JavaScript, Typescript, Java, Python, PHP</strong>, and modern frontend & backend ecosystems.
+With <strong>3+ years of experience</strong>, I specialize in building scalable applications across <strong>JavaScript, Typescript, Java, Python, PHP</strong>, and modern frontend & backend ecosystems.
 </p>
 
 ---
